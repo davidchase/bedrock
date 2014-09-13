@@ -1,0 +1,16 @@
+{
+    "verbose": true,
+    "ignore": [
+        ".gitignore",
+        ".eslintrc",
+        "README.md",
+        ".git/*",
+        ".idea/*",
+        ".sass-cache/*",
+        "node_modules/*",
+        "client/*",
+        "images/*",
+        "public/*",
+        "tmp/*"
+    ]
+}

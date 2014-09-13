@@ -1,4 +1,6 @@
-bedrock
+Bedrock
 =======
 
-A foundation for some projects
+A foundation for building SOLID web projects
+
+![bedrock](images/bedrock.jpg)
